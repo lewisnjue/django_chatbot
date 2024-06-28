@@ -1,0 +1,25 @@
+.input{
+    position: fixed;
+    bottom: 40px;
+    right: 5%;
+    left: 5%;
+    width: 100%;
+    
+}
+.input input{
+    width: 70%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid rgb(34, 34, 216);
+    outline: none;
+    font-size: 20px;
+}
+button {
+    padding: 1.2%;
+    cursor: pointer;
+    background-color: white;
+    color: blue;
+    font-size: large;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
